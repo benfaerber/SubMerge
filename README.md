@@ -8,3 +8,5 @@ To get started using SubMerge:
 4. Turn off debug mode in the Python file
 
 Start merging subtitles!
+
+I've tested SubMerge on my Ubuntu 17.10 machine only. Some modifications may need to made for Windows, Mac, or another Distro.
